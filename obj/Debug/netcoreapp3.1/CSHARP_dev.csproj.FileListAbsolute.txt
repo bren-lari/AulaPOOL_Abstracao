@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\CSHARP_dev\bin\Debug\netcoreapp3.1\CSHARP_dev.exe
+C:\Users\dev\Desktop\CSHARP_dev\bin\Debug\netcoreapp3.1\CSHARP_dev.deps.json
+C:\Users\dev\Desktop\CSHARP_dev\bin\Debug\netcoreapp3.1\CSHARP_dev.runtimeconfig.json
+C:\Users\dev\Desktop\CSHARP_dev\bin\Debug\netcoreapp3.1\CSHARP_dev.runtimeconfig.dev.json
+C:\Users\dev\Desktop\CSHARP_dev\bin\Debug\netcoreapp3.1\CSHARP_dev.dll
+C:\Users\dev\Desktop\CSHARP_dev\bin\Debug\netcoreapp3.1\CSHARP_dev.pdb
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.AssemblyInfo.cs
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.dll
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.pdb
+C:\Users\dev\Desktop\CSHARP_dev\obj\Debug\netcoreapp3.1\CSHARP_dev.genruntimeconfig.cache
